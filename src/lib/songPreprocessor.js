@@ -7,7 +7,7 @@ export function songPreprocessor(fileRegex = /\/songs\/.*\.md$/) {
         };
       }
 
-      const delimiter = '---';
+      const delimiter = '---\n';
       const text = content.split(delimiter);
       var song = text.slice(2).join("\n");
 
