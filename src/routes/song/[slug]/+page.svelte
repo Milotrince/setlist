@@ -1,6 +1,5 @@
 <script lang="ts">
   import StoreControl from "$lib/components/StoreControl.svelte";
-
   import {
     fontSizeStore,
     columnsStore,

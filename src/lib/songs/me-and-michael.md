@@ -1,7 +1,7 @@
 ---
 title: Me and Michael
 artist: MGMT
-tags: [2010s, alt-rock]
+tags: [2010s, alt rock]
 ---
 
 [Intro]

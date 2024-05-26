@@ -1,7 +1,7 @@
 ---
 title: Make the Grade
 artist: Jack Conte
-tags: [2010s, indie-pop]
+tags: [2010s, indie]
 ---
 
 [Verse 1]

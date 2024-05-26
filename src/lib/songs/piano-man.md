@@ -1,7 +1,7 @@
 ---
 title: Piano Man
 artist: Billy Joel
-tags: [1970s, folk-rock]
+tags: [1970s, folk, rock]
 ---
 
 [Prelude] Dm7  %  Ddim  % 

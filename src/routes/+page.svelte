@@ -1,15 +1,76 @@
 <script lang="ts">
-  import SongList from '$lib/components/SongList.svelte';
-  import songs from "$lib/songquery";
+  import { derived, writable } from "svelte/store";
+  import { songs, tags } from "$lib/songsQuery";
+  import SongList from "$lib/components/SongList.svelte";
+  import TagsInput from "$lib/components/TagsInput.svelte";
 
-  let christmas = false;
-  let displaySongs = songs.filter(
-    (s) => +s.tags.includes("christmas") ^ +!christmas
+  let showOptions = false
+
+  const searchQuery = writable("");
+  const includeTags = writable([]);
+  const excludeTags = writable(["christmas"]);
+
+  const displaySongs = derived(
+    [searchQuery, includeTags, excludeTags],
+    ([$searchQuery, $includeTags, $excludeTags]) =>
+      songs.filter((song) => {
+        const matchesQuery =
+          song.title.toLowerCase().includes($searchQuery.toLowerCase()) ||
+          song.artist.toLowerCase().includes($searchQuery.toLowerCase());
+
+        const matchesIncludeTags =
+          $includeTags.length === 0 ||
+          song.tags.some((tag) => $includeTags.includes(tag));
+
+        const matchesExcludeTags = !$excludeTags.some((tag) =>
+          song.tags.includes(tag)
+        );
+
+        return matchesQuery && matchesIncludeTags && matchesExcludeTags;
+      })
   );
 </script>
 
-<SongList songs={displaySongs}></SongList>
+<p>
+  <span class="small">search</span>
+<input
+  class="search"
+  type="text"
+  placeholder="title or artist..."
+  bind:value={$searchQuery}
+/>
+  <button on:click={() => showOptions = !showOptions}>▾</button>
+</p>
+{#if showOptions}
+<div>
+  <span class="small">include tags</span>
+  <div style="display: inline-block">
+    <TagsInput
+      bind:tags={$includeTags}
+      autoComplete={tags}
+      onlyAutocomplete={true}
+      onlyUnique={true}
+      minChars={1}
+    />
+  </div>
+  <br/>
+  <span class="small">exclude tags</span>
+  <div style="display: inline-block">
+    <TagsInput
+      bind:tags={$excludeTags}
+      autoComplete={tags}
+      onlyAutocomplete={true}
+      onlyUnique={true}
+      minChars={1}
+    />
+  </div>
+</div>
+{/if}
+<SongList songs={$displaySongs}></SongList>
 
-<button on:click={() => (christmas = !christmas)}>
-  {christmas ? "christmas." : "christmas?"}
-</button>
+<style lang="sass">
+  .search
+    width: 400px
+  .small
+    font-size: 0.8em
+</style>

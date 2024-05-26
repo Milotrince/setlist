@@ -14,7 +14,7 @@ export function songPreprocessor(fileRegex = /\/songs\/.*\.md$/) {
       const sectionRegex = /\[.+?\]/g;
       song = song.replace(sectionRegex, (match) => `<b>${match}</b>`);
 
-      const chordRegex = /\b([A-G][#b]?(sus|maj|min|aug|dim|m|M)?[0-9]?\/?[A-G]?[#b]?)(?!\|)/g;
+      const chordRegex = /\b([A-G][#b]?(sus|maj|min|aug|dim|m|M)?[0-9]?\/?[A-G]?[#b]?)\b(?!\|)/g
       song = song.replace(chordRegex, (match) => `<Chord chord="${match}" />`);
 
       content = [

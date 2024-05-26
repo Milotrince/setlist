@@ -1,7 +1,7 @@
 ---
 title: Everybody Wants To Rule The World
 artist: Tears For Fears
-tags: [1980s, soft-rock]
+tags: [1980s, soft rock]
 ---
 
 Capo 1

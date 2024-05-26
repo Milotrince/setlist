@@ -1,5 +1,5 @@
 import { error } from '@sveltejs/kit'
-import songs from "$lib/songquery.js"
+import { songs } from "$lib/songsQuery.js"
 
 export async function load({ params }) {
 	try {

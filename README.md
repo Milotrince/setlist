@@ -9,5 +9,6 @@ self-hostable tabs & chord sheets
 - [x] chord previews
 - [x] transpose
 - [x] light/dark
-- [ ] search
+- [x] search
+- [ ] ultimateguitar search
 - [ ] robust chords

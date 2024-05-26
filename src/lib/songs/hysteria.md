@@ -1,7 +1,7 @@
 ---
 title: Hysteria
 artist: nano / ナノ
-tags: [2010, anime]
+tags: [2010s, anime]
 ---
 
 [0:00]

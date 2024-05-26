@@ -44,10 +44,6 @@
 </div>
 
 <style lang="sass">
-    .light-mode .chord .fingering
-        background-color: $background-light
-    .dark-mode .chord .fingering
-        background-color: $background-dark
     .chord
         width: min-content
         display: inline-block
@@ -59,6 +55,7 @@
             .fingering
                 display: block
         .fingering
+            background: var(--background)
             display: none
             position: absolute
             transform: translateY(-200%) translateX(-20%)

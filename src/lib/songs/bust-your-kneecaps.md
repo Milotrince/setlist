@@ -1,7 +1,7 @@
 ---
 title: Bust Your Kneecaps
 artist: Pomplamoose
-tags: [2010s, indie-pop]
+tags: [2010s, indie]
 ---
 
 [Intro]

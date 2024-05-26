@@ -1,7 +1,7 @@
 ---
 title: We Still Got Us
 artist: Pomplamoose
-tags: [2010s, indie-pop]
+tags: [2010s, indie]
 ---
 
 Capo 1

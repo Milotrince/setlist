@@ -26,7 +26,7 @@
       </a>
     </h1>
     <div class="icons">
-      <button on:click={() => toggleDarkMode()}>☀︎</button>
+      <button on:click={() => toggleDarkMode()}>{darkMode ? "☪︎" : "☀︎"}</button>
     </div>
   </div>
 
