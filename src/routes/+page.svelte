@@ -31,6 +31,11 @@
   );
 </script>
 
+<svelte:head>
+  <title>setlist</title>
+  <meta property="og:title" content="setlist" />
+</svelte:head>
+
 <p>
   <span class="small">search</span>
 <input

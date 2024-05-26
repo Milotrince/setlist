@@ -10,7 +10,7 @@
 
   sharpStore.subscribe((value) => {
     sharp = value;
-    displayChord = transposeChord(chord, 0, sharp);
+    displayChord = transposeChord(displayChord, 0, sharp);
   })
 
   transposeStore.subscribe((value) => {
