@@ -1,17 +1,15 @@
 <script lang="ts">
+  import SongList from '$lib/components/SongList.svelte';
   import songs from "$lib/songquery";
 
   let christmas = false;
+  let displaySongs = songs.filter(
+    (s) => +s.tags.includes("christmas") ^ +!christmas
+  );
 </script>
 
-<ul>
-  {#each songs as song}
-  {#if !christmas && !song.tags.includes("christmas") || christmas && song.tags.includes("christmas")}
-    <li><a href={`/song/${song.slug}`}>{song.title}</a> by {song.artist}</li>
-  {/if}
-  {/each}
-</ul>
+<SongList songs={displaySongs}></SongList>
 
-<button on:click={() => christmas = !christmas}>
-  {christmas ? 'christmas.' : 'christmas?'}
+<button on:click={() => (christmas = !christmas)}>
+  {christmas ? "christmas." : "christmas?"}
 </button>

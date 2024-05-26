@@ -11,10 +11,10 @@ export function songPreprocessor(fileRegex = /\/songs\/.*\.md$/) {
       const text = content.split(delimiter);
       var song = text.slice(2).join("\n");
 
-      const sectionRegex = /\[(Chorus|Verse|Bridge|Intro|Outro|Instrumental|Interlude)( \d+)?\]/g;
-      song = song.replace(sectionRegex, '<b>[$1]</b>');
+      const sectionRegex = /\[.+?\]/g;
+      song = song.replace(sectionRegex, (match) => `<b>${match}</b>`);
 
-      const chordRegex = /\b([A-G][#b]?(m|maj|dim|aug)?[0-9]?\/?[A-G]?[#b]?)\b/g;
+      const chordRegex = /\b([A-G][#b]?(sus|maj|min|aug|dim|m|M)?[0-9]?\/?[A-G]?[#b]?)(?!\|)/g;
       song = song.replace(chordRegex, (match) => `<Chord chord="${match}" />`);
 
       content = [

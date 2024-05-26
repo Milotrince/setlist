@@ -1,5 +1,5 @@
 ---
-title: 라면인건가
+title: Is It Ramen / 라면인건가
 artist: AKMU
 tags: [kpop]
 ---

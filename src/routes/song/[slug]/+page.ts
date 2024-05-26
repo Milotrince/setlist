@@ -1,13 +1,14 @@
-import { error } from '@sveltejs/kit'
+import { toKebabCase } from "$lib/helpers.js";
+import { error } from "@sveltejs/kit";
 
 export async function load({ params }) {
-	try {
-		const post = await import(`$lib/songs/${params.slug}.md`)
-		return {
-			content: post.default,
-			meta: post.metadata
-		}
-	} catch (e) {
-		error(404, `Could not find ${params.slug}`)
-	}
+  try {
+    const post = await import(`$lib/songs/${params.slug}.md`);
+    return {
+      content: post.default,
+      meta: { artistSlug: toKebabCase(post.metadata.artist), ...post.metadata },
+    };
+  } catch (e) {
+    error(404, `Could not find ${params.slug}`);
+  }
 }

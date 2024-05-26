@@ -1,5 +1,38 @@
 @import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic+Coding:wght@400700&display=swap')
 
+$primary: #ff436c
+$secondary: #0abeeb
+$highlight: #fffb00
+
+$background-light: #fff
+$text-light : #000
+$background-dark: #000
+$text-dark: #fff
+
 html
   font-family: "Nanum Gothic Coding", monospace
   font-style: normal
+
+body
+  &.light-mode
+    color: $text-light
+    background: $background-light
+    a
+      color: $text-light
+    button
+      color: $text-light
+      background: darken($background-light, 10%)
+      border: 2px outset darken($background-light, 15%)
+
+  &.dark-mode
+    color: $text-dark
+    background: $background-dark
+    a
+      color: $text-dark
+    button
+      color: $text-dark
+      background: lighten($background-dark, 10%)
+      border: 2px outset lighten($background-dark, 15%)
+
+a
+  text-decoration-color: $secondary

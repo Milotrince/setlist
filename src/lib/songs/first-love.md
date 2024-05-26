@@ -1,6 +1,6 @@
 ---
-title: 첫사랑
-artist: 버스커 버스커
+title: First Love / 첫사랑
+artist: Busker Busker / 버스커 버스커
 tags: [2010s, kpop]
 ---
 

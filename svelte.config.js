@@ -10,7 +10,7 @@ const config = {
 	preprocess: [
         preprocess({
             sass: {
-                prependData: "@import './src/app.sass';",
+                prependData: "@import './src/app.sass'",
                 includePaths: ['node_modules'],
             },
         }),

@@ -4,14 +4,14 @@
 </script>
 
 <svelte:head>
-  <title>{data.tag}</title>
+  <title>songs by {data.artist}</title>
   <meta property="og:type" content="article" />
-  <meta property="og:title" content={data.tag} />
+  <meta property="og:title" content={data.artist} />
 </svelte:head>
 
 <article>
   <hgroup>
-    <h1><span style="font-weight: normal">tagged with </span> {data.tag}</h1>
+    <h1><span style="font-weight: normal">songs by</span> {data.artist}</h1>
   </hgroup>
 
   <SongList songs={data.songs}></SongList>

@@ -1,6 +1,6 @@
 ---
-title: 꽃송이가
-artist: 버스커 버스커
+title: The Flower / 꽃송이가
+artist: Busker Busker / 버스커 버스커
 tags: [2010s, kpop]
 ---
 
