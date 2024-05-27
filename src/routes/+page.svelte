@@ -4,7 +4,7 @@
   import SongList from "$lib/components/SongList.svelte";
   import TagsInput from "$lib/components/TagsInput.svelte";
 
-  let showOptions = false
+  let showOptions = false;
 
   const searchQuery = writable("");
   const includeTags = writable([]);
@@ -38,44 +38,50 @@
 
 <p>
   <span class="small">search</span>
-<input
-  class="search"
-  type="text"
-  placeholder="title or artist..."
-  bind:value={$searchQuery}
-/>
-  <button on:click={() => showOptions = !showOptions}>▾</button>
+  <input
+    class="search"
+    type="text"
+    placeholder="title or artist..."
+    bind:value={$searchQuery}
+  />
+  <button on:click={() => (showOptions = !showOptions)}>▾</button>
 </p>
 {#if showOptions}
-<div>
-  <span class="small">include tags</span>
-  <div style="display: inline-block">
-    <TagsInput
-      bind:tags={$includeTags}
-      autoComplete={tags}
-      onlyAutocomplete={true}
-      onlyUnique={true}
-      minChars={1}
-    />
+  <div style="margin-left: 12px;">
+    <div style="margin-bottom: 4px">
+      <span class="small">include tags</span>
+      <div style="display: inline-block">
+        <TagsInput
+          bind:tags={$includeTags}
+          autoComplete={tags}
+          onlyAutocomplete={true}
+          onlyUnique={true}
+          minChars={1}
+        />
+      </div>
+    </div>
+    <div>
+      <span class="small">exclude tags</span>
+      <div style="display: inline-block">
+        <TagsInput
+          bind:tags={$excludeTags}
+          autoComplete={tags}
+          onlyAutocomplete={true}
+          onlyUnique={true}
+          minChars={1}
+        />
+      </div>
+    </div>
   </div>
-  <br/>
-  <span class="small">exclude tags</span>
-  <div style="display: inline-block">
-    <TagsInput
-      bind:tags={$excludeTags}
-      autoComplete={tags}
-      onlyAutocomplete={true}
-      onlyUnique={true}
-      minChars={1}
-    />
-  </div>
-</div>
 {/if}
 <SongList songs={$displaySongs}></SongList>
 
 <style lang="sass">
   .search
-    width: 400px
+    width: 240px
+  @media (min-width: 769px)
+    .search
+      width: 400px
   .small
     font-size: 0.8em
 </style>

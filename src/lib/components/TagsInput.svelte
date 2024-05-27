@@ -424,14 +424,18 @@
   font-family: "Nanum Gothic Coding", monospace
   border-radius: 2px
 
+@media (min-width: 769px)
+  .tags-input-layout
+    width: 380px !important
+
 .tags-input-layout
-  width: 404px
+  width: 220px
+  display: flex
   display: -webkit-box
   display: -ms-flexbox
   display: flex
   flex-direction: row
-  -ms-flex-wrap: wrap
-  flex-wrap: wrap
+  overflow-x: hidden
   -webkit-box-align: center
   -ms-flex-align: center
   align-items: center
@@ -540,6 +544,4 @@
     clip: rect(0, 0, 0, 0)
     white-space: nowrap
     border: 0
-
-
 </style>
