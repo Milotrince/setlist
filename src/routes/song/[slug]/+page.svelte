@@ -5,10 +5,12 @@
     columnsStore,
     transposeStore,
     scrollSpeedStore,
-    sharpStore
+    sharpStore,
   } from "$lib/stores.js";
   import { onMount } from "svelte";
   export let data;
+
+  let editable = false;
 
   let fontSize: number;
   fontSizeStore.subscribe((value) => {
@@ -88,8 +90,11 @@
     store={transposeStore}
     minus={(n) => n - 1}
     plus={(n) => n + 1}
-    reset={0} >
-    <button on:click={() => sharpStore.update(b => !b)}>{sharp ? "#" : "♭"}</button>
+    reset={0}
+  >
+    <button on:click={() => sharpStore.update((b) => !b)}
+      >{sharp ? "#" : "♭"}</button
+    >
   </StoreControl>
   <StoreControl
     label="scroll"
@@ -106,7 +111,9 @@
   <hgroup>
     <h1>
       {data.meta.title} <span style="font-weight: normal">by</span>
-      <a class="artist" href={`/artist/${data.meta.artistSlug}`}>{data.meta.artist}</a>
+      <a class="artist" href={`/artist/${data.meta.artistSlug}`}
+        >{data.meta.artist}</a
+      >
     </h1>
   </hgroup>
 
@@ -118,7 +125,10 @@
   </div>
 
   <div style={`font-size: ${fontSize}rem; column-count: ${columns}`}>
-    <svelte:component this={data.content} />
+    <!-- svelte-ignore a11y-no-static-element-interactions -->
+    <div class:editing={editable} on:dblclick={() => (editable = !editable)} contenteditable={editable}>
+      <svelte:component this={data.content} />
+    </div>
   </div>
 </article>
 
@@ -129,4 +139,6 @@
     text-align: right
   .artist
     text-decoration-color: $primary
+  .editing
+    color: var(--subtext)
 </style>
