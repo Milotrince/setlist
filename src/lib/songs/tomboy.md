@@ -1,6 +1,6 @@
 ---
 title: Tomboy
-artist: HYUKOH
+artist: HYUKOH / 혁오
 tags: [2010s, indie, rock]
 ---
 
