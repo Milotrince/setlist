@@ -27,6 +27,7 @@
     </h1>
     <div class="icons">
       <button on:click={() => toggleDarkMode()}>{darkMode ? "☪︎" : "☀︎"}</button>
+      <a href="https://github.com/milotrince/setlist"><button>source</button></a>
     </div>
   </div>
 
