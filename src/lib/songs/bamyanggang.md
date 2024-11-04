@@ -32,11 +32,11 @@ Am7                          Am7/F    Am7/G G
 
 
 [Chorus]
-C    G/B     Am7   G  
+C    G/B     Am7   Am7/G  
 떠나는 길에 니가 내게 말했지
  F    Em    F    G
 ‘너는 바라는게 너무나 많아’
-C    G/B    Am7   G  
+C    G/B    Am7   Am7/G  
 아냐 내가 늘 바란 건 하나야
 F     Em    F   G C
 한 개뿐이야 달디단 밤양갱
