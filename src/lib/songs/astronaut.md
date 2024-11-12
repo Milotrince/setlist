@@ -21,7 +21,7 @@ EbM7 F9            BbM7    D7
 새까만 world of zero gravity
 Cm7   F9   BbM7   Gm7
 빛의 속도로 계속 늘어나고
-EbM7   F9         BbM7
+AbM7    AbM7   D7
  내 키도 늘어나는 곳
 
 [Chorus]
