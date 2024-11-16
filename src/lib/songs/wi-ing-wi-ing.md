@@ -1,7 +1,7 @@
 ---
 title: Wi Ing Wi Ing / 위잉위잉
 artist: HYUKOH / 혁오
-tags: [2010s, indie rock, kpop]
+tags: [2010s, indie, rock, kpop]
 ---
 
 Gm C9 Am D9

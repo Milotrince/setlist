@@ -1,7 +1,7 @@
 ---
 title: Leather Jacket / 가죽자켓
 artist: HYUKOH / 혁오
-tags: [2010s, indie rock, kpop]
+tags: [2010s, indie, rock, kpop]
 ---
 
 Bm7 x7x777x

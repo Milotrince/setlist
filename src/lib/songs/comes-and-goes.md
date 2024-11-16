@@ -1,7 +1,7 @@
 ---
 title: Comes and Goes / 와리가리
 artist: HYUKOH / 혁오
-tags: [2010s, indie rock, kpop]
+tags: [2010s, indie, rock, kpop]
 ---
 
 [Verse 1] (x = beat)

@@ -1,7 +1,7 @@
 ---
 title: Me and My Husband
 artist: Mitski
-tags: [2010s, indie rock]
+tags: [2010s, indie, rock]
 ---
 
 [Intro]
