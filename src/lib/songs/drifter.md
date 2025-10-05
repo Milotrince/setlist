@@ -34,7 +34,7 @@ kono machi no soranomoto anata ga
 iru kagiri bokuha nige nai
 
 [Verse 2]
-nin gyou no ie ni wa
+nin gyo u no ie ni wa
 nin ge n ha sume na i
 ryuuhyou noyouna machi de
 o i kakete tanowa nige mizu
@@ -47,7 +47,7 @@ iikireta nara ki itto mayoi mo use ru
 
 [Chorus 2]
 miina ai no uta nise tsuka rete
-atae ruyoriyo oku  uba tte shima  u u n da
+atae ruyoriyo oku  uba tte shima u u n da
 kawa ita kaze ga fuki are te
 de ien nofu keio  sabaku nishita nara
 teri tsukeruso rano moto anata wa
@@ -64,15 +64,15 @@ kono machi no sora no moto anata ga
 iru kagiri bokuha 
 
 kiitto shirafu na yatsu deita inda
-kodomono na koega  odoriba ni hibiku yoru
+kodomono na koega  odo ribani hibi ku yoru
 reizo uko nodo ao hira ite
-botoru no mizu no n de^ chikaiota teruyo
-yokubo uga uzuwomaku naba ra sae
-moon riverwo wataru you  na suteppu de
+botoru no mizu no n de^ chika iota teruyo
+yokubo uga uzu omaku naba ra sa e
+moon riverwo wataru youna suteppu de
 
 [Outro]
-fumi koete yuko o   anata to
-kono boku no soba niiru ttano
+fumi koete yuko o anata to
+kono boku no soba ni iru daro
 
 
 
