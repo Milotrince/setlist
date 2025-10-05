@@ -16,39 +16,49 @@ Itsu demo o mekashi shiteru yo
   
 [Pre-Chorus]  
 kurai kimochi sae  
-sugu ni  harete  
+ sugu ni  harete  
 minna  uki uki  
   
 [Chorus]  
-down town kuridaso  
-down town kuridaso  
-down town kuridaso  
+down town kuridaso-ho
+down town kuridaso-ho
+down town kuridaso-ho !
   
 [Verse 3]  
 shabo ndama no yo oni kiete yuku  
-koyoi kagirino koi mo mata tanoshi  
+koyoui kagirino koi moo mata tanoshi  
 yoru wa kore kara  
 
 [Pre-Chorus]
 kurai kimochi sae  
-sugu ni  harete  
+ sugu ni  harete  
 minna  uki uki, uki uki  
   
 [Chorus]  
-down town kuridaso  
-down town kuridaso  
-down town kuridaso  
+down town kuridaso-ho
+down town kuridaso-ho
+down town kuridaso-ho !
 
 [Instrumental]
   
 [Pre-Chorus]  
 kurai kimochi sae  
-sugu ni  harete  
+ sugu ni  harete  
 minna  uki uki, uki uki
   
 [Chorus]
-down town kuridaso  
-down town kuridaso  
-down town kuridaso  
-oooh yea!
-...
+down town kuridaso-ho
+down town kuridaso-ho
+down town kuridaso-ho !
+     oooh ooh yea!
+
+down town kuridaso-ho
+down town kuridaso-ho
+down town kuridaso-ho !
+
+[Instrumental]
+
+[Chorus] x3
+down town kuridaso-ho
+down town kuridaso-ho
+down town kuridaso-ho !
