@@ -1,7 +1,7 @@
 ---
 title: One Summer's Day
 artist: Joe Hisaishi
-tags: [2000s, movie, tab, shj]
+tags: [2000s, movie, tab, ghibli]
 ---
 
 E|-2--------0----5----|-2--------0----|-0-------------5----|-0--------------------|

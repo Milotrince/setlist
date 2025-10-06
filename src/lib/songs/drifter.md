@@ -1,6 +1,6 @@
 ---
 title: Drifter
-artist: Kirinji
+artist: Kirinji / キリンジ
 tags: [jpop, 2000s]
 ---
 

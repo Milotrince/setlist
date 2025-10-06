@@ -1,7 +1,7 @@
 ---
 title: Howl's Moving Castle
 artist: Joe Hisaishi
-tags: [2000s, movie, shj, tab]
+tags: [2000s, movie, ghibli, tab]
 ---
 
 Capo 3

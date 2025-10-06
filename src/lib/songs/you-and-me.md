@@ -1,12 +1,10 @@
 ---
 title: You and Me
-artist: Kirinji
+artist: Kirinji / キリンジ
 tags: [jpop, 2000s]
 ---
 
 https://ja.chordwiki.org/wiki/YOU+AND+ME
-
-F#M7 xx4666 
 
 [Verse 1]
 You and me  yoku ni ta bokura no
