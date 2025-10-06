@@ -21,14 +21,14 @@ dare yori mo saki ni　 koko de ma atteru
 [Verse 2]
 shinpai shinaide 　 namida no atonara mo o kawaiteru
 sukoshi sumashite senobi shite
-otona  nofuri ho ntoha  shi njite itai
+otona  nofuri ho ntowa  shi njite itai
 
 [Chorus 2]
 fuanna yokogao  waraitobashitara
 kokoro no toubira o akete
 hamidashita kimochi  se ehppai nano
 uketomeru kimi no tsuyo sa
-tōmawarida to omōkedo  mitsumete
+tōmawarida to omō kedo  mitsumete
 
 [Instrumental]
 

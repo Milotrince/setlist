@@ -4,7 +4,7 @@
   import SongList from "$lib/components/SongList.svelte";
   import TagsInput from "$lib/components/TagsInput.svelte";
 
-  let showOptions = false;
+  let showOptions = true;
 
   const searchQuery = writable("");
   const includeTags = writable([]);
