@@ -21,7 +21,7 @@ soshite itsumo no  guuzen de dea uyo, Hello!
 
 [Verse 2]
 tsugi no mezame mukaeru toki wa
-musekaeru hodo ichime n 
+museka eru hodo ichime n 
 hanayagu naka   azayakasa to 
 hakanasa wo shiru~
 
@@ -30,21 +30,21 @@ hakanasa wo shiru~
    kuu~uuu u~
 
 [Pre-Chorus]
-tsuyoi kaze ni nara hana mo chiru darou
-daremo shiranai ma ni
+tsuyoi kaze ni nara  hana mo chiru darou
+daremo shira  nai ma ni
 no, no no nono
 
 [Chorus]
 GOODBYE
-iro no chigau sora wo miagete sugosou
+iro no chigau sora wo miagete sugo sou
 GOODBYE
 soshite itsumo no guuzen de deau yo, Hello!
 
 GOODBYE
-karamawari suru yume demo mireru na~ra
+karamawari suru  yume demo mireru na~ra
 GOODBYE
-hikari sakeru youni me wo fuseru darou
+hikari sakeru  youni me wo fuseru darou~
 
 (u~uuu u)
-kumo datta tsukamu yo, karoyaka ni ne~!
-hanabira kette tsuka amu yo  GOODBYE
+kumo datta tsukamu yo, karoyakanii ne~!
+hanabira ke ette  tsuka amyo  GOODBYE

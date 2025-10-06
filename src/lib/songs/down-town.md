@@ -11,8 +11,8 @@ doyo obi no yoru wa nigiyaka
   
 [Verse 2]  
 machikado wa  itsu demo hitoikire  
-Soredemo  yoki na  kono machi  
-Itsu demo o mekashi shiteru yo  
+soredemo  yoki na  kono machi  
+itsu demo o mekashi shiteru yo  
   
 [Pre-Chorus]  
 kurai kimochi sae  
