@@ -36,15 +36,15 @@ no, no no nono
 
 [Chorus]
 GOODBYE
-iro no chigau sora wo miagete sugo sou
+iro no chiga u  sora wo miagete sugo sou
 GOODBYE
-soshite itsumo no guuzen de deau yo, Hello!
+soshite itsumo no  guuzen de dea uyo, Hello!
 
 GOODBYE
-karamawari suru  yume demo mireru na~ra
+karama wari suru  yume demo mireru na~ra
 GOODBYE
 hikari sakeru  youni me wo fuseru darou~
 
 (u~uuu u)
-kumo datta tsukamu yo, karoyakanii ne~!
-hanabira ke ette  tsuka amyo  GOODBYE
+kumodatta tsukamu yo, karo yaka nii ne~!
+ha nabira ke ette  tsuka amyo goodBYE
