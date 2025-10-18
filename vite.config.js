@@ -38,7 +38,8 @@ export default defineConfig({
 				]
 			},
 			injectManifest: {
-				globPatterns: ['**/*.{js,css,html,svg,png,ico,woff,woff2}']
+				globPatterns: ['**/*.{js,css,html,svg,png,ico,woff,woff2}'],
+				injectionPoint: undefined
 			},
 			devOptions: {
 				enabled: true,
