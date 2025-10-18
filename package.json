@@ -12,6 +12,7 @@
 		"@sveltejs/adapter-cloudflare": "^4.4.0",
 		"@sveltejs/kit": "^2.0.0",
 		"@sveltejs/vite-plugin-svelte": "^3.0.0",
+		"@vite-pwa/sveltekit": "^1.0.1",
 		"mdsvex": "^0.11.0",
 		"sass": "^1.77.2",
 		"svelte": "^4.2.7",

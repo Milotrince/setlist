@@ -2,6 +2,7 @@
   import "../app.sass";
   import { darkStore } from "$lib/stores";
   import { onMount } from "svelte";
+  import InstallPrompt from "$lib/components/InstallPrompt.svelte";
 
   let darkMode: boolean;
   darkStore.subscribe((value) => {
@@ -32,6 +33,7 @@
   </div>
 
   <slot />
+  <InstallPrompt />
 </div>
 
 <style lang="sass">
