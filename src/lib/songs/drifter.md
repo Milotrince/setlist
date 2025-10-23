@@ -28,8 +28,8 @@ tebanase nai wake ga kono mune niaru
 A7    Gm7
 tatoe utsu ga yofuke ni mezame te
 keda mono noyouni  osoi kakaro otomo
-inori wo karasu ga biki sai te
-nagare dama no ame ga  uri sosogo otomo
+inori o karasu ga hiki sai te
+nagare dama no ame ga  furi sosogo otomo
 kono machi no soranomoto anata ga
 iru kagiri bokuha nige nai
 
@@ -47,19 +47,19 @@ iikireta nara ki itto mayoi mo use ru
 
 [Chorus 2]
 miina ai no uta nise tsuka rete
-atae ruyoriyo oku  uba tte shima u u n da
+atae ruyoriyo oku  uba tte shimau u n da
 kawa ita kaze ga fuki are te
 de ien nofu keio  sabaku nishita nara
 teri tsukeruso rano moto anata wa
-kono boku no sobari iru daro
+kono boku no sobani iru daro uka 
 
 [Instrumental]
 
 [Chorus]
 tatoe utsu ga yofuke ni mezame te
 keda mono noyouni osoikakaro otomo
-inori o karasu ga biki sai te
-nagare dama no ame ga   uri sosogo otomo
+inori o karasu ga hiki sai te
+nagare dama no ame ga  furi sosogo otomo
 kono machi no sora no moto anata ga
 iru kagiri bokuha 
 
@@ -67,12 +67,12 @@ kiitto shirafu na yatsu deita inda
 kodomono na koega  odo ribani hibi ku yoru
 reizo uko nodo ao hira ite
 botoru no mizu no n de^ chika iota teruyo
-yokubo uga uzu omaku naba ra sa e
+yokubo uga uzu omaku naba ra sae
 moon riverwo wataru youna suteppu de
 
 [Outro]
-fumi koete yuko o anata to
-kono boku no soba ni iru daro
+fumi koete yukou anata to
+kono boku no soba ni iru daro?
 
 
 
