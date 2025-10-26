@@ -67,8 +67,8 @@ Am7 G      Am7 G    Fmaj7    C G
    Take me out    tonight
         Am7               G
 take me anywhere, I don't care
-        Am7   G Fmaj7 C G
-I don't care
+        Am7              G Fmaj7 C G
+I don't care I don't care
            Am7      G    Am7
 And in the darkened underpass
   G          Fmaj7                             C G
@@ -84,14 +84,14 @@ Am7 G       Am7 G   Fmaj7    C G
     Take me out   tonight
            Am7               G
 oh take me anywhere, I don't care
-        Am7    G Fmaj7 C G
-I don't care
+        Am7              G Fmaj7 C G
+I don't care I don't care
 Am7     G       Am7  G
 driving in your car
   Fmaj7                  C
 I never never want to go home
-  G               Am7      G Am7 G
-because I haven't got one
+  G               Am7             G Am7 G
+because I haven't got one, oh-ledum
           Fmaj7       C G
 I haven't got one
 
@@ -116,7 +116,7 @@ G           C
     Fmaj7                     Dm
 the pleasure the privilege is mine
 
-[Outro]
+[Outro] x4 (fade)
 Am7        G            Am7        G
 There is a light and it never goes out
 Fmaj7                   C          G
