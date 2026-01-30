@@ -5,8 +5,8 @@ tags: [jpop, 2000s]
 ---
 
 [Intro]
-Bmaj7 | Bb7 | Ebm7 | Ab
-Bmaj7 | Bbm7 Bb7 | Ebm7 | Ab | E7
+Bmaj7  Bb7        Ebm7  Ab
+Bmaj7  Bbm7  Bb7  Ebm7  Ab  E7
 
 [Verse 1]
 Ebm7           Abm7   Bbm7
@@ -97,9 +97,9 @@ mahou no you ni tokeru sa
 itsu kada
 
 [Interlude]
-Bmaj7 | B Gbmaj7 | Fm7 Bb7
-Bmaj7 | Bb7 | Ebm7 | Ab7
-Bmaj7 | Bb7 | Ebm7 Eb7
+Bmaj7  B  Gbmaj7  Fm7   Bb7
+Bmaj7  Bb7        Ebm7  Ab7
+Bmaj7  Bb7        Ebm7  Eb7
 
 [Verse 3]
 Abm7                  Bm7 B7
@@ -132,4 +132,4 @@ daisuki sa Alien
 wakaru ka
 
 [Outro]
-Abm7 | Abm Db7 | Gb
+Abm7   Abm Db7   Gb
