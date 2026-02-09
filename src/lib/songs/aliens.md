@@ -12,27 +12,27 @@ Bmaj7  Bbm7  Bb7  Ebm7  Ab  E7
 Ebm7           Abm7   Bbm7
 haruka sora ni Boeing
        Ebm7
-oto mo naku
+oto mo naku, aa~
 Bmaj7     Bbm7  Bm7  Abm7
 koudan no yane no ue
 Bbm7  Bb7   Ebm7   E7
-doko e yuku
+doko    e yuku
 
 [Verse 2]
-Ebm7            Abm7  Bbm7
+Ebm7           Abm7  Bbm7
 dareka no fukigen mo
-           Ebm7
+          Ebm7
 neshizumaru yoru sa
-Bmaj7   Bb7      Abm7
+Bmaj7     Bb7    Abm7
 BAIPASU no sunda kuuki to
-Bbm7     Eb   Eb7
-boku no machi
+Bbm7 Eb   Eb7
+boku  no machi
 
 [Pre-Chorus]
   Abm7                  Bmaj7 Db7
 nakanai de kure darling
-     Bbm7           Dbm7 Eb7
-hooa  tsukiakari ga
+    Bbm7           Dbm7 Eb7
+hooa tsukiakari ga
 Cm        F7
    nagai yoru ni
 Bbm7         Am
@@ -49,7 +49,7 @@ kindan no mi  hoobatte wa
 tsuki no ura wo
       Ebm7   Gb7
 yumemite
-Bmaj7    Db7
+Bmaj7     Db7
 kimi ga suki da yo Alien
   Bbm7             Ebm7
 kono hoshi no kono hekichi de
@@ -59,21 +59,21 @@ Fm7           Bb7     Bmaj7
 ii ka ah
 
 [Verse 2]
-Ebm7              Abm7 Bbm7
+Ebm7           Abm7 Bbm7
 dokoka de fuzoroi na
 Ebm7
-tooboe
+tooboe  aah
 Bmaj7           Bbm7 Bb7 Abm7
 kamen no you na SUPOOTSU KAA ga
 Bbm7  Bb7  Ebm7
-hi wo ha  ita
+hi wo   ha ita
 Eb7
-uhhhh
+oooo
 
 [Pre-Chorus]
 Abm7                 Bm7 Db7
 waratte okure darling
- B7 Bbm7                 Dbm7  Eb7
+  B7 Bbm7                 Dbm7  Eb7
 hora  subarashii yoru ni
 Cm         F7        Bbm7        Am
   boku no tansho wo JOOKU ni shite mo
@@ -91,9 +91,9 @@ Bmaj7       Db7
 kimi ga suki da yo Alien
 Bbm7              Ebm7
 naimono nedari mo KISU de
-Fm7       Bb7        Bmaj7
-mahou no you ni tokeru sa
-     Gbmaj7
+Fm7         Bb7       Bmaj7
+ mahou no you ni  tokeru sa
+      Gbmaj7
 itsu kada
 
 [Interlude]
@@ -122,9 +122,9 @@ tsuki no ura wo
 yumemite
 Bmaj7     Db7
 kimi wo aishiteru Alien
-Bbm      Bbm        Ebm7
+Bbm      Bbm           Ebm7
 kono hosh no hekichi no bokura ni
-Fm7         Bb7       Ebm7  Ebm7 Gb7 Bmaj7 Bb7
+Fm7         Bb7     Ebm7  Gb7 Bmaj7 Bb7
 mahou wo kakete miseru sa
 Abm7       Bb7
 daisuki sa Alien
