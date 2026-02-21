@@ -13,7 +13,7 @@ Ebm7           Abm7   Bbm7
 haruka sora ni Boeing
        Ebm7
 oto mo naku, aa~
-Bmaj7     Bbm7  Bm7  Abm7
+Bmaj7     Bbm7 Bm7  Abm7
 koudan no yane no ue
 Bbm7  Bb7   Ebm7   E7
 doko    e yuku
@@ -45,10 +45,8 @@ Bmaj7         Db7
 maru de bokura wa Aliens
   Bbm7           Ebm7
 kindan no mi  hoobatte wa
- Fm7
-tsuki no ura wo
-      Ebm7   Gb7
-yumemite
+ Fm7               Ebm7   Gb7
+tsuki no ura wo  yumemite
 Bmaj7     Db7
 kimi ga suki da yo Alien
   Bbm7             Ebm7
@@ -62,13 +60,11 @@ ii ka ah
 Ebm7           Abm7 Bbm7
 dokoka de fuzoroi na
 Ebm7
-tooboe  aah
+tooboe  aa~
 Bmaj7           Bbm7 Bb7 Abm7
 kamen no you na SUPOOTSU KAA ga
-Bbm7  Bb7  Ebm7
-hi wo   ha ita
-Eb7
-oooo
+Bbm7  Bb7  Ebm7   Eb7
+hi wo   ha ita   oooo
 
 [Pre-Chorus]
 Abm7                 Bm7 Db7
@@ -76,7 +72,7 @@ waratte okure darling
   B7 Bbm7                 Dbm7  Eb7
 hora  subarashii yoru ni
 Cm         F7        Bbm7        Am
-  boku no tansho wo JOOKU ni shite mo
+  boku no tansho wo  JOOKU ni shite mo
 Abm7           Bb7
 mayu wo hisomenai de
 
@@ -85,8 +81,8 @@ Bmaj7       Db7
 Sou sa bokura wa Aliens
  Bbm            Ebm7
 gaitou ni sotte arukeba
-Fm7          Bb7        Ebm7  Gb7
-goran  shinsekai no you sa
+Fm7         Bb7       Ebm7  Gb7
+goran shinsekai no you sa
 Bmaj7       Db7
 kimi ga suki da yo Alien
 Bbm7              Ebm7
@@ -98,16 +94,18 @@ itsu kada
 
 [Interlude]
 Bmaj7  B  Gbmaj7  Fm7   Bb7
+                       nana nana
 Bmaj7  Bb7        Ebm7  Ab7
+na~
 Bmaj7  Bb7        Ebm7  Eb7
 
 [Verse 3]
 Abm7                  Bm7 B7
 odorou yo  saa darling
  Bbm7         Dbm7 Eb7
-ASUTO DANSU wo
+ASUTO DANSU wo-
 Cm       F7
-   kurai NYUUSU ga
+   kurai ^NYUUSU ga
 Bbm7      Am      Abm7           Bb7   Bb
 hinode to tomo ni machi ni furu mae ni
 
@@ -116,10 +114,8 @@ Bmaj7    Db7
 maru de bokura wa Aliens
 Bbm7           Ebm7
 kindan no mi  hoobatte wa
-Fm7
-tsuki no ura wo
-     Ebm7  Gb7
-yumemite
+Fm7                Ebm7  Gb7
+tsuki no ura wo  yumemite
 Bmaj7     Db7
 kimi wo aishiteru Alien
 Bbm      Bbm           Ebm7
