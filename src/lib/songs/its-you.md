@@ -4,6 +4,8 @@ artist: Joyce Cooling
 tags: [1980s, bossa nova]
 ---
 
+credit: https://note.com/gayapara/n/n55ddbea5c3bd
+
 [Intro]
    Cmaj7     Gsus2       Cmaj7     Em9      Cmaj7   Am7add11 F#m7add11  Cmaj7
 E|----0----------------|---0-----------------|---0-----------------|---------------------|
@@ -114,19 +116,14 @@ A#m7add11   D#9               G#maj7   Fadd9/A G#maj7/5+
      Deep inside you know the answer 
 Gmaj7     C#9     Cmaj7            F6
   Hold me now –     I'll show you how
-Bm7 A#m7 Am7  A#m7   Bm7   Cmaj7 Cmaj7/G
+Bm7 A#m7 Am7  A#m7   Bm7   Cmaj7 Gsus2 Cmaj7 Em9
 Loving you is what’s on my mind – all the time 
 
-[Interlude]
-Cmaj7     Gsus2         Cmaj7     Em9
-na-naa na na-naa na na  na-naa na naa
 Cmaj7    Am7add11 F#m7add11  Cmaj7 Cmaj7/G
 na-naa na na-naa na na       naa
 
-[Instrumental] (i think is just verse + bridge)
-
-[Verse 2]
-[Bridge]
+[Instrumental: Verse, Bridge] 
+[Sung: Verse 2, Bridge]
 
 [Chorus] (2x)
 It’s you, it’s you, it’s you on my mind – it’s you
