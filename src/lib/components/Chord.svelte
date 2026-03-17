@@ -1,40 +1,99 @@
 <script lang="ts">
-  import { transposeChord, getFingering } from "$lib/musicHelper";
-  import { transposeStore, sharpStore } from "$lib/stores.js";
+  import { transposeStore, sharpStore, instrumentTuningStore } from "$lib/stores.js";
+  import { transposeChord, getFingeringsForChord, loadMoreFingeringsForChord } from "$lib/musicHelper.js";
+  import { onMount } from "svelte";
   export let chord;
 
+  const PAGE_SIZE = 4;
   let transpose = 0;
-  let sharp = true;
-  let displayChord = transposeChord(chord, transpose, sharp);
-  let fingerings = getFingering(displayChord);
+  let sharp: boolean | null = null;
+  let fingerings: string[] = [];
+  let f_idx = 0;
+  let hasLoadedFingerings = false;
+  let loadingFingerings = false;
+  let loadToken = 0;
+  let displayChord = chord;
 
-  sharpStore.subscribe((value) => {
-    sharp = value;
-    displayChord = transposeChord(displayChord, 0, sharp);
-  })
+  function resetFingerings() {
+    loadToken += 1;
+    hasLoadedFingerings = false;
+    loadingFingerings = false;
+    fingerings = [];
+    f_idx = 0;
+  }
 
-  transposeStore.subscribe((value) => {
-    transpose = value;
-    displayChord = transposeChord(chord, transpose, sharp);
-    fingerings = getFingering(displayChord);
+  async function ensureFingeringsLoaded() {
+    if (hasLoadedFingerings || loadingFingerings) return;
+
+    loadingFingerings = true;
+    const token = ++loadToken;
+    const tabs = await getFingeringsForChord(displayChord, PAGE_SIZE);
+    if (token !== loadToken) return;
+
+    fingerings = tabs;
+    f_idx = 0;
+    hasLoadedFingerings = true;
+    loadingFingerings = false;
+  }
+
+  onMount(() => {
+    const unsubscribeSharp = sharpStore.subscribe((value) => {
+      sharp = value;
+      displayChord = transposeChord(chord, transpose, sharp);
+      resetFingerings();
+    });
+
+    const unsubscribeTranspose = transposeStore.subscribe((value) => {
+      transpose = value;
+      displayChord = transposeChord(chord, transpose, sharp);
+      resetFingerings();
+    });
+
+    const unsubscribeTuning = instrumentTuningStore.subscribe(() => {
+      resetFingerings();
+    });
+
+    return () => {
+      unsubscribeSharp();
+      unsubscribeTranspose();
+      unsubscribeTuning();
+    };
   });
 
-  let fi = 0;
-  const L = fingerings.length;
+  async function nextFingering(i: number) {
+    await ensureFingeringsLoaded();
 
-  function nextFingering(i: number) {
-    fi = (fi + i) % L;
+    const length = fingerings.length;
+    if (!length) return;
+
+    if (i > 0 && f_idx === length - 1) {
+      const updated = await loadMoreFingeringsForChord(displayChord, PAGE_SIZE);
+      if (updated.length > length) {
+        fingerings = updated;
+        f_idx = length;
+        return;
+      }
+    }
+
+    f_idx = (f_idx + i + length) % length;
   }
 </script>
 
-<div class="chord" tabindex="0" role="button" aria-pressed="false">
+<div
+  class="chord"
+  tabindex="0"
+  role="button"
+  aria-pressed="false"
+  on:mouseenter={ensureFingeringsLoaded}
+  on:focus={ensureFingeringsLoaded}
+>
   <b>{displayChord}</b><div class="fingering" role="dialog">
     <button
       tabindex="-1"
       on:mousedown|preventDefault
       on:click={() => nextFingering(-1)}>&lt;</button
     >
-    {fingerings ? fingerings[fi] : "? ? ? ? ? ?"}
+    {fingerings.length ? fingerings[f_idx] : "? ? ? ? ? ?"}
     <button
       tabindex="-1"
       on:mousedown|preventDefault

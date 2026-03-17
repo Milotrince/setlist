@@ -6,6 +6,7 @@
     transposeStore,
     scrollSpeedStore,
     sharpStore,
+    instrumentTuningStore,
   } from "$lib/stores.js";
   import { onMount } from "svelte";
   export let data;
@@ -28,6 +29,28 @@
   sharpStore.subscribe((value) => {
     sharp = value;
   });
+  let tuning: string;
+  instrumentTuningStore.subscribe((value) => {
+    tuning = value;
+  });
+
+  const tunings = [
+    "EADGBE",
+    "DADGBE",
+    "DGCFAD",
+    "DGDGBD",
+    "CGCGCE",
+    "GCEA",
+  ];
+
+  function setTuning(value: string) {
+    instrumentTuningStore.set(value.trim() || "EADGBE");
+  }
+
+  function onTuningSelectChange(event: Event) {
+    const target = event.currentTarget as HTMLSelectElement;
+    setTuning(target.value);
+  }
 
   let scroll = false;
   let scrollId: number;
@@ -105,6 +128,14 @@
   >
     <button on:click={() => (scroll = !scroll)}>{scroll ? "⏸︎" : "▸"}</button>
   </StoreControl>
+  <div class="tuning-control">
+    <div class="label">tuning</div>
+    <select class="tuning-select" value={tuning} on:change={onTuningSelectChange}>
+      {#each tunings as t}
+        <option value={t}>{t}</option>
+      {/each}
+    </select>
+  </div>
 </div>
 
 <article>
@@ -141,4 +172,7 @@
     text-decoration-color: $primary
   .editing
     color: var(--subtext)
+  .tuning-control
+    .tuning-select
+      margin-left: 30px
 </style>

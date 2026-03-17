@@ -6,3 +6,4 @@ export const columnsStore = writable(1);
 export const scrollSpeedStore = writable(0.1);
 export const transposeStore = writable(0);
 export const sharpStore = writable(true);
+export const instrumentTuningStore = writable('EADGBE');
