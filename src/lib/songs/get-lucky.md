@@ -131,13 +131,13 @@ D
  
  
 Am
- We’re up all night to get back together
+ We're up all night to get back together
 C
- We’re up all night (let’s get back together!)
+ We're up all night (let's get back together!)
 Em
- We’re up all night to get funky
+ We're up all night to get funky
 D
- We’re up all night to get lucky
+ We're up all night to get lucky
  
 Am
  We're up all night to get lucky

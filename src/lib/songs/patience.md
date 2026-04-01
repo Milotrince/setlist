@@ -79,7 +79,7 @@ G
 D
   It's hard to see with so many around
     G
-You know I don’t like being stuck in the crowd
+You know I don't like being stuck in the crowd
         D
 And the streets don't change but baby the names
 G

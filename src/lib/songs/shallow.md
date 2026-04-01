@@ -72,9 +72,9 @@ C                          G    D
 Em7          D/F# G
    Or do you need more?
 C                                       G   D
-   Is there something else you’re searching for?
+   Is there something else you're searching for?
    Em7 D/F# G
-   I’m fall-in'
+   I'm fall-in'
 C                          G      D           Em7 D/F# G
    In all the good times I find myself longin'    for  change
 C                         G      D
@@ -88,16 +88,16 @@ Em7 D/F#  G
    Em7         D/F#   G
    Tell me something boy...
 C                          G         D
-   Aren’t you tired trying fill that void
+   Aren't you tired trying fill that void
 Em7          D/F# G
    Or do you need more?
 C                           G      D
-   Ain’t it hard keeping it so hardcore
+   Ain't it hard keeping it so hardcore
 
 
 [Gaga Prechorus]
    Em7 D/F# G
-   I’m fall-ing
+   I'm fall-ing
 C                          G      D           Em7 D/F# G
    In all the good times I find myself longin'    for  change
 C                         G      D
@@ -106,13 +106,13 @@ C                         G      D
 
 [Chorus]
 Am                    D
-I’m off the deep end, watch as I dive in
+I'm off the deep end, watch as I dive in
 G           D       Em
-I’ll never meet the ground
+I'll never meet the ground
 Am                         D
-Crash through the surface, where they can’t hurt us
+Crash through the surface, where they can't hurt us
       G            D       Em
-We’re far from the shallow now
+We're far from the shallow now
 
 
 [Post–Chorus]
@@ -123,7 +123,7 @@ G         D            Em
 Am                 D
    In the shallow, shallow
          G            D       Em
-   We’re far from the shallow now
+   We're far from the shallow now
 Em
 
 [Bridge]
@@ -135,13 +135,13 @@ Woaaaaaaaaaaaaaaaaaaaaaaahhhhh
 
 [Chorus]
 Am                    D
-I’m off the deep end, watch as I dive in
+I'm off the deep end, watch as I dive in
 G           D        Em
-I’ll never meet the ground
+I'll never meet the ground
 Am                         D
-Crash through the surface, where they can’t hurt us
+Crash through the surface, where they can't hurt us
       G            D       Em
-We’re far from the shallow now
+We're far from the shallow now
 
 
 [Post-Chorus]
@@ -152,4 +152,4 @@ G         D           Em
 Am                 D
    In the shallow, shallow
          G            D       Em
-   We’re far from the shallow now
+   We're far from the shallow now

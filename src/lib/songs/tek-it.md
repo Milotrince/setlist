@@ -35,7 +35,7 @@ I     watch the moon
               Cmaj7
 Let it run  my mood
 D6                  Em7
-Can’t stop thinking of you
+Can't stop thinking of you
 Cmaj7  D6    Em7
 I      watch you
 Cmaj7           D6
@@ -51,7 +51,7 @@ We were talking the same language
 Am7
 I o-open and I'm closing
 Gmaj7               Em7
-You can’t stand the thought
+You can't stand the thought
                   Am7
 of a real beating heart
          Bm11            Gmaj7/A
@@ -67,7 +67,7 @@ I      watch the moon
               Cmaj7
 Let it run  my mood
 D6                  Em7
-Can’t stop thinking of you
+Can't stop thinking of you
 Cmaj7  D6    Em7
 I      watch you
 Cmaj7           D6

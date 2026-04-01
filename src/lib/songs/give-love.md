@@ -27,11 +27,11 @@ Niga nal sirheohae haneun geol ara
        F#m                                  Bm
 Naneun seounhae geureon nal wae neoneun mot ihaehae
                      G
-You don’t understand nan neoreul johahandago
+You don't understand nan neoreul johahandago
            D                          F#m
 Naega mwol jalmotaenneunde naege wae geureoneunde
                        Bm
-Geureolsurok nan doege seopseophae oh i’m so sad
+Geureolsurok nan doege seopseophae oh i'm so sad
      G
 Geureonikka seulseul let me come into your maeum
  
@@ -72,7 +72,7 @@ Give love Oh oh Woah Yeah
 D                             F#m
 Jalmotan geotdo eomneunde wae Mujakjeong sirheohago boneun neo
 Bm                          G
-Why can’t you understand me Nan neoreul johahandago
+Why can't you understand me Nan neoreul johahandago
          D                           F#m
 Nega nal sirheohae haneun geol an hu Buteo saemsotdeon uiyogi da sideulgo
            Bm                       G

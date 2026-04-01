@@ -23,9 +23,9 @@ E|--2/3-----3-3---------------------4-5-----5-5--------------------------|
 비잉비잉 돌아가는
 세상도 나를 비웃듯이 계속 꿈틀대죠
  
-Tell me, tell me, please don’t tell
+Tell me, tell me, please don't tell
 차라리 듣지 못한 편이 내겐 좋을거야
-Tell me, tell me, please don’t tell
+Tell me, tell me, please don't tell
 차라리 보지 못한 편이 내겐 좋을거야
  
 Ai ai ai ai ai ai ai
@@ -46,14 +46,14 @@ Ai ai ai ai ai ai
 뚜욱 뚜욱 떨어지는
 눈물이 언젠가는 이세상을 덮을거야
  
-Tell me, tell me, please don’t tell
+Tell me, tell me, please don't tell
 차라리 듣지 못한 편이 내겐 좋을거야
-Tell me, tell me, please don’t tell
+Tell me, tell me, please don't tell
 차라리 보지 못한 편이 내겐 좋을거야
  
-Tell me, tell me, please don’t tell
+Tell me, tell me, please don't tell
 차라리 느껴보지 못한 편이 좋을거야
-Tell me, tell me, please don’t tell
+Tell me, tell me, please don't tell
 차라리 살아보지 못한 편이 좋을거야
  
 비틀비틀 걸어가는 나의 다리

@@ -46,11 +46,11 @@ People always say, "Man, at least you're on the radio”
 
 [Interlude]
 Em       D
-     At least you’re on the radio
+     At least you're on the radio
 Em       D                  A
-     At least you’re on the radio
+     At least you're on the radio
 Em       D                         A   Bm
-     At least you’re on the radio
+     At least you're on the radio
 
 [Verse 2]
 Em                D
@@ -89,9 +89,9 @@ People always say, "Man, at least you're on the radio”
 
 [Interlude]
 Em       D
-     At least you’re on the radio
+     At least you're on the radio
 Em       D                  A
-     At least you’re on the radio
+     At least you're on the radio
 Em  D
 Em  D   A
 Em  D
@@ -117,4 +117,4 @@ I'll be in the back room, tell me when it's over
 Bm                          A                   F#m
 People always say, "Man, at least you're on the radio”
 N.C.
-“At least you’re on the radio-ho”
+“At least you're on the radio-ho”

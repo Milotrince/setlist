@@ -4,8 +4,6 @@ artist: Joyce Cooling
 tags: [1980s, bossa nova]
 ---
 
-credit: https://note.com/gayapara/n/n55ddbea5c3bd
-
 [Intro]
    Cmaj7     Gsus2       Cmaj7     Em9      Cmaj7   Am7add11 F#m7add11  Cmaj7
 E|----0----------------|---0-----------------|---0-----------------|---------------------|
@@ -87,7 +85,7 @@ Am7        D9                F6   A#7add13 A#7
 Am7              Bm7               C6                Bm7 
 Throw away your fears and let the feeling come on through 
 Cmaj7     Bm7      Am7add11       Cmaj7  Cmaj7/G     Bm7 A#m7
-Can’t you see that all I want is you – me and you 
+Can't you see that all I want is you – me and you 
 
 [Bridge]
 Am7         D9    Em9             A7add13 A7
@@ -97,7 +95,7 @@ A#m7add11   D#9               G#maj7   Fadd9/A Eadd9/G#
 Gmaj7     C#9     Cmaj7            F6
   Hold me now –     I'll show you how
 Bm7 A#m7 Am7  A#m7   Bm7   Cmaj7 Cmaj7/G
-Loving you is what’s on my mind – all the time 
+Loving you is what's on my mind – all the time 
 
 [Verse 2]
 Bm7 A#m7  Am7 Amadd13           Bm7   A#7add13 A#7                  
@@ -105,9 +103,9 @@ Take a    flight,     stay with me tonight
 Am7      D9             F6   A#7add13 A#7
   Let me kiss away your blues 
 Am7              Bm7                  C6               Bm7 
-Alone together, side by side, we’ll know just what to do 
+Alone together, side by side, we'll know just what to do 
   Cmaj7               Bm7   Am7add11    Cmaj7  Cmaj7/G
-A magic dance that’s only meant for two – me and you 
+A magic dance that's only meant for two – me and you 
 
 [Bridge]
 Am7         D9    Em9             A7add13 A7
@@ -117,7 +115,7 @@ A#m7add11   D#9               G#maj7   Fadd9/A Eadd9/G#
 Gmaj7     C#9     Cmaj7            F6
   Hold me now –     I'll show you how
 Bm7 A#m7 Am7  A#m7   Bm7   Cmaj7 Gsus2 Cmaj7 Em9
-Loving you is what’s on my mind – all the time 
+Loving you is what's on my mind – all the time 
 
 Cmaj7    Am7add11 F#m7add11  Cmaj7 Cmaj7/G
 na-naa na na-naa na na       naa
@@ -126,7 +124,8 @@ na-naa na na-naa na na       naa
 [Sung: Verse 2, Bridge]
 
 [Chorus] (2x)
-It’s you, it’s you, it’s you on my mind – it’s you
-It’s you, it’s you, I see by my side – it’s you
+     C         Gsus2     F#m  B     Em         Am7  Bm7  C6  Bm7 
+It's you, it's you, it's you on my mind – it's you
+It's you, it's you, I see by my side – it's you
 
 [Instrumental] fade

@@ -1,7 +1,7 @@
 ---
 title: City of Stars
 artist: La La Land
-tags: [2010s, movie, tabs]
+tags: [2010s, movie, tab]
 ---
 
 Capo 3

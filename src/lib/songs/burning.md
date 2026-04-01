@@ -87,7 +87,7 @@ Nee kotaete namida ga aa namida ga
 
 [Chorus]
 N.C.
-Yeah I’m
+Yeah I'm
 Eb  F Bb     Ab    Eb F     Bb
 Cry-y-ing kienai kizuato ga asu wo
 Ab    Eb F   Bb Ab   Eb      F      Bb           Ab

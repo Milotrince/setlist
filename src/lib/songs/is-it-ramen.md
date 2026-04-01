@@ -52,6 +52,6 @@ Am7  D7  G         F#7         Bm      Am   D7
          G         F#7         Bm      Am          D7
 라면인건가 라면인건가 라면인건가   오늘도 내 점심은
          G         F#7         Bm      Am   D7
-라면인건가 라면인건가 라면인건가              Let’s Go!
+라면인건가 라면인건가 라면인건가              Let's Go!
 
 [Outro] G F#7 Bm Am D7  x2

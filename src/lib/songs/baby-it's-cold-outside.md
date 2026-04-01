@@ -19,7 +19,7 @@ So very nice
 [Chorus]
    F
 My mother will start worry
-                    Beautiful what’s your hurry?
+                    Beautiful what's your hurry?
      Fm
 And father will be pacing the floor
                                    Listen to the fireplace roar

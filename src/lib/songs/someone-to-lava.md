@@ -15,7 +15,7 @@ every day, for years and years.
 
 [Chorus] C G D7 G; C G C D7 G
 I have a dream I hope will come true,
-that you’re here with me and I’m here with you.
+that you're here with me and I'm here with you.
 I wish that the earth, sea, and sky up above
 will send me someone to lava.
 

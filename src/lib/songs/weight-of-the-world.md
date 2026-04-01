@@ -9,7 +9,7 @@ Am7 F x2
  
 [Verse]
 Am7
-I feel like I’m losing hope
+I feel like I'm losing hope
 F
 In my body and my soul
         C                G       E7
@@ -25,7 +25,7 @@ My cries are inconspicuous
          Am7  G       C         F
 Tell me, God, are you punishing me?
    Dm                 G             C
-Is this the price I’m paying for my past mistakes?
+Is this the price I'm paying for my past mistakes?
 Am7  G     C          F
 This is my redemption song
   G#                            G
@@ -35,17 +35,17 @@ Can you hear me now?
  
 [Chorus]
        Am7
-‘Cause we’re gonna shout it loud
+‘Cause we're gonna shout it loud
   F
 Even if our words seem meaningless
               C                          G       E7
-It’s like I’m carrying the weight of the world
+It's like I'm carrying the weight of the world
   Am7
 I wish that someway, somehow
      F
 That I can save everyone of us
         C                             G
-But the truth is that I’m only one girl
+But the truth is that I'm only one girl
  
 [Bridge]
            Am7            G              F             G
@@ -69,30 +69,30 @@ And life, has become my enemy
  
 [Chorus]
 N.C.
-‘Cause we’re gonna shout it loud
+‘Cause we're gonna shout it loud
  
 Even if our words seem meaningless
  
-It’s like I’m carrying the weight of the world
+It's like I'm carrying the weight of the world
  
 I wish that someway, somehow
  
 That I can save everyone of us
  
-But the truth is that I’m only one girl
+But the truth is that I'm only one girl
 G
        Am7
-‘Cause we’re gonna shout it loud
+‘Cause we're gonna shout it loud
   F
 Even if our words seem meaningless
               C                          G       E7
-It’s like I’m carrying the weight of the world
+It's like I'm carrying the weight of the world
   Am7
 I wish that someway, somehow
      F
 That I can save everyone of us
         C                             G
-But the truth is that I’m only one girl
+But the truth is that I'm only one girl
  
 [Outro]
            Am7            G              F             G

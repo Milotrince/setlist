@@ -7,7 +7,7 @@ tags: [christmas]
 
 [Verse 1]
 G               Am   D     D7
-I’m dreaming of a white Christmas,
+I'm dreaming of a white Christmas,
 C                 Am           G        Gsus4  G
 Just like the ones I used to know.
  G              G             G7
@@ -19,7 +19,7 @@ To hear the sleigh bells in the snow.
 
 [Verse 2]
 G                    Am   D     D7
-I’m dreaming of a white Christmas,
+I'm dreaming of a white Christmas,
 C            Am             G      Gsus4  G
 With every Christmas card I write.
          G        G7        C     Cm
@@ -29,7 +29,7 @@ And may all your Christmases be white.
 
 [Verse 3]
 G               Am   D     D7
-I’m dreaming of a white Christmas,
+I'm dreaming of a white Christmas,
 C                 Am           G        Gsus4  G
 Just like the ones I used to know.
 G               G             G7
@@ -41,7 +41,7 @@ To hear the sleigh bells in the snow.
 
 [Verse 4]
 G                  Am   D      D7
-I’m dreaming of a white Christmas,
+I'm dreaming of a white Christmas,
  C         Am                 G  Gsus4  G
 With every Christmas card I write.
           G        G7         C    Cm

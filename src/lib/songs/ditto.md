@@ -13,7 +13,7 @@ Stay in the middle
 Dmaj7
 Like you a little
 C#m7
-Don’t want no riddle
+Don't want no riddle
 F#m7
 malhaejweo say it back
 Bm7
@@ -65,7 +65,7 @@ neol joahandago wooah wooah wooah
 Bm7                E7                  Amaj7
 Ra-ta-ta-ta ullin shimjang (Ra-ta-ta-ta)
 Amaj7
-But I don’t want to
+But I don't want to
  
 [Chorus]
 Dmaj7
@@ -73,7 +73,7 @@ Stay in the middle
 Dmaj7
 Like you a little
 C#m7
-Don’t want no riddle
+Don't want no riddle
 F#m7
 malhaejweo say it back
 Bm7
@@ -83,7 +83,7 @@ achimeun neomu meoreo
 Amaj7
 So say it ditto
 Amaj7
-I don’t want to
+I don't want to
 Dmaj7
 Walk in this miro
 Dmaj7
@@ -119,7 +119,7 @@ neol joahandago wooah wooah wooah
 Bm7                E7                Amaj7
 Ra-ta-ta-ta ullin shimjang (Ra-ta-ta-ta)
 Amaj7
-But I don’t want to
+But I don't want to
  
 [Chorus]
 Dmaj7
@@ -127,7 +127,7 @@ Stay in the middle
 Dmaj7
 Like you a little
 C#m7
-Don’t want no riddle
+Don't want no riddle
 F#m7
 malhaejweo say it back
 Bm7
@@ -137,7 +137,7 @@ achimeun neomu meoreo
 Amaj7
 So say it ditto
 Amaj7
-I don’t want to
+I don't want to
 Dmaj7
 Walk in this miro
 Dmaj7

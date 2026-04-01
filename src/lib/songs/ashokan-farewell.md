@@ -9,7 +9,7 @@ The sun is sinking low in the sky above Ashokan.
     D             Bm            G            A
 The pines and the willows know soon we will part.
           D              D7      G          Em
-There’s a whisper in the wind of promises unspoken,
+There's a whisper in the wind of promises unspoken,
        D             Bm        A7          D
 And a love that will always remain in my heart.
 
@@ -18,7 +18,7 @@ My thoughts will return to the sound of your laughter,
     D        Bm        A7
 The magic of moving as one,
       D            D7     G         D
-And a time we’ll remember long ever after
+And a time we'll remember long ever after
     D             Bm         A7           D
 The moonlight and music and dancing are done.
 
