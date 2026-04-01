@@ -60,10 +60,13 @@ D|-------2-----------2----||
 A|-3----------------------||
 E|-------------3----------||
 
-
+C                             G
 Freight train, freight train, run so fast
+G                             C
 Freight train, freight train, run so fast
+E                      F
 Please don't tell what train I'm on
+     C               G          C
 They won't know what route I'm going
 
 When I'm dead and in my grave
