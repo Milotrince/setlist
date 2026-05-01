@@ -43,9 +43,9 @@ Me? I guess I was a shoulder to cry on
 
 [Verse 4]
   D
-A face on a lover with a fire in his heart
+a face on a lover with a fire in his heart
   Bm                                    [ Em ]
-A man undercover but you tore him apart
+a man undercover but you tore him apart
 Em                                      A
  Maybe this year, Maybe this year I'll give it to someone special
 

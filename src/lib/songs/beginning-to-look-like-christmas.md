@@ -21,7 +21,7 @@ On your own  front door.
 
 [Bridge]
            F#                                              Bm       F#        Bm
-A pair of hopalong boots and a pistol that shoots, is the wish of Barney and Ben
+a pair of hopalong boots and a pistol that shoots, is the wish of Barney and Ben
  E                                                   A       E7         A7
 Dolls that will talk and will go for a walk, is the hope of Janice and Jen;
      A

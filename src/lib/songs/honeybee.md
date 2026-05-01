@@ -150,19 +150,5 @@ And I never thought I was crazy,
 (eee)
 Fmaj7                      C
 But what do I know?                (But what do I know?)
-Fmaj7                                C              Fmaj7 (let ring into A Capella part)
+Fmaj7                                C              Fmaj7
 I let myself go,                    (I let myself go)
- 
-(A Capella Round):
-Hello Goodbye, Twas nice to know you,
-How I find myself without you,
-(That I'll never know)
-Hello Goodbye, I'm rather crazy,
-And I never thought I was crazy,
-(I let myself go)
-Hello Goodbye, Twas nice to know you,
-How I find myself without you,
-(But what do I know?)
-Hello Goodbye, I'm rather crazy,
-And I never thought I was crazy
-(Now you have to go)

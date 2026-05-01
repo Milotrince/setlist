@@ -6,7 +6,7 @@ tags: [2010s, movie]
 Capo 5
 [Intro] G
 [Verse 1] G D7 C G D7
-A long long time ago, there was a volcano
+a long long time ago, there was a volcano
 Living all alone, in the middle of the sea.
 He sat high above his bay, watching all the couples play,
 and he was wishing that he had someone too.

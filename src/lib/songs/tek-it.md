@@ -27,7 +27,7 @@ The debt unpaid
     Am7
 And you just can't call
 D7          Gmaj7
-  A spade a spade
+  a spade a spade
  
 [Chorus]
 Cmaj7  D6         Em7

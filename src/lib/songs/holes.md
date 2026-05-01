@@ -19,7 +19,7 @@ When you've got nothing, you've got nothing to lose
 
 [Chorus] C G D Em
 Now I've got a hole in my pocket, a hole in my shirt,
-A whole lot of trouble, he said
+a whole lot of trouble, he said
 But now the money's gone, well life carries on
 And I miss it like a hole in the head
 
@@ -37,7 +37,7 @@ So why you gotta worry me for
 
 [Chorus] C G D Em
 Now he left a hole in my heart, a hole in a promise
-A hole on the side of my bed
+a hole on the side of my bed
 But now that he's gone well life carries on
 And I miss him like a hole in the head
 

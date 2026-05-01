@@ -76,7 +76,7 @@ And it's Friday night and you're looking clean
     Em                 F
 Too early to start the rounds
   C          CM9/B         Am                   Em
-A ten minute ride from the Gold Coast back make sure you're pleasure bound
+a ten minute ride from the Gold Coast back make sure you're pleasure bound
          F                   C                      Em                F
 And it's four o'clock in the morning and all of the people have gone away
      C            CM9/B    Am         Em       F                 C

@@ -35,7 +35,7 @@ Cause I couldn't bear to see what I might see.
                     Bbm            Dm
 I'm really still in prison, and my love she holds the key.
   G7                            Bbm6           C7    Bbm6                 C7
-A simple yellow ribbon's what I need to set me free; I wrote and told her please
+a simple yellow ribbon's what I need to set me free; I wrote and told her please
 
 [Chorus]
 [Instrumental] F Am Cm D7 Gm C7; F Am Cm D7 Gm
@@ -46,7 +46,7 @@ Now the whole damn bus is cheering,
       F               D7
 and I can't believe I see..
   Gm             Bbm               Gm7 C7  F
-A hundred yellow ribbons round the old Oak tree!
+a hundred yellow ribbons round the old Oak tree!
            Am   Cm D7 Gm C7
 I'm comin' home...
 
