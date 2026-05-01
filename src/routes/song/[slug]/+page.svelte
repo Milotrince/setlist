@@ -65,22 +65,28 @@
     scrollId = requestAnimationFrame(scrollPage);
   }
   onMount(() => {
-    window.addEventListener("keydown", (event) => {
-      if (event.key === " ") {
+    const handleKeydown = (event: KeyboardEvent) => {
+      if (event.key === " " && document.activeElement?.tagName !== "INPUT" && document.activeElement?.tagName !== "TEXTAREA" && document.activeElement?.tagName !== "SELECT") {
         scroll = !scroll;
         event.preventDefault();
       }
-    });
-    window.addEventListener("scroll", () => {
+    };
+    
+    const handleScroll = () => {
       const scrollTop = window.scrollY || document.documentElement.scrollTop;
       const windowHeight = window.innerHeight;
       const documentHeight = document.documentElement.scrollHeight;
       if (scrollTop + windowHeight >= documentHeight || scrollTop <= 0) {
         scroll = false;
       }
-    });
+    };
+
+    window.addEventListener("keydown", handleKeydown);
+    window.addEventListener("scroll", handleScroll);
     scrollId = requestAnimationFrame(scrollPage);
     return () => {
+      window.removeEventListener("keydown", handleKeydown);
+      window.removeEventListener("scroll", handleScroll);
       scroll = false;
       cancelAnimationFrame(scrollId);
     };
