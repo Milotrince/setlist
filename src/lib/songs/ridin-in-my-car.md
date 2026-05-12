@@ -56,10 +56,8 @@ And I still think about you every time I'm riding in my car
 
 
 [Verse 4]
-G  Bm  Am7  D
-{Instrumental line}
-G  Bm  Am7  D
-{Instrumental line}
+G  Bm  Am7  D  (x2)
+
     C                                        G       G+
 And I can't find no true love, oh Baby, it's so hard
       C                                              G      G+
